@@ -27,3 +27,6 @@ Twitterで投票を集め、それを集計し、ランキング形式で表示�
 # なぜこのサービスを作りたいのか？
 Twitterのフォロワーに喜んでもらいたい。（Twitterで行っている4択投票を発展させる）
 自分自身も音楽を掘るときに有効活用していきたい。
+
+# 画面遷移図
+https://www.figma.com/file/9fD0Du8h1beV7QgRXTW9ar/Untitled?node-id=0%3A1
